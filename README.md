@@ -1,4 +1,6 @@
 # Build
+
+# Mac or Linux
 ./gradlew build
 
 # Build and run
